@@ -2,7 +2,7 @@ Jinja2
 msgpack-python>0.3
 PyYAML
 MarkupSafe
-requests>=1.0.0
+requests>=2.32.4
 tornado>=4.2.1
 # Required by Tornado to handle threads stuff.
 futures>=2.0
