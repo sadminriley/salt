@@ -10,3 +10,4 @@ virtualenv
 # rarfile
 # Needed for keystone
 # python-keystoneclient
+cryptography>=46.0.5 # not directly required, pinned by Snyk to avoid a vulnerability
